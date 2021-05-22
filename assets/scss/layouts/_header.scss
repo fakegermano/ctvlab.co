@@ -67,7 +67,7 @@
 }
 
 .navbar {
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: $body-bg;
   border-bottom: 1px solid $gray-200;
   margin-top: 4px;
 }
@@ -79,7 +79,7 @@
 }
 
 .home .navbar {
-  border-bottom: 0;
+  border-bottom: 1;
 }
 
 .navbar-form {
