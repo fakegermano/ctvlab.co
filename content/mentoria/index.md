@@ -12,8 +12,8 @@ Mentoria em Estratégia de Posicionamento e Branding para profissionais da Econo
 [Reserve sua vaga!](https://mlt279vdqra.typeform.com/to/ezIIBqwk)<sub><sup>Temos só 3 vagas disponíveis pra junho</sup></sub>
 
 ## Como funciona?
-São 4 encontros de 40 minutos via zoom ou google meet onde vamos:
 
+São 4 encontros de 40 minutos via zoom ou google meet onde vamos:
 
 1. Desenhar e testar estratégias de conteúdo e posicionamento através das redes sociais (80 min);
 2. Aprender a fazer monitoramento e ajustar planejamento (40 min);
