@@ -48,3 +48,14 @@ jobs:
         password: ${{ secrets.SERVER_PASS }}
         source: "public/*"
         target: "ctvlab.co"
+
+    - name: Set correct files
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.SERVER_HOST }}
+        username: ${{ secrets.SERVER_USER }}
+        password: ${{ secrets.SERVER_PASS }}
+        script: |
+          cd ctvlab.co
+          cp -r public/* .
+          rm -r public
