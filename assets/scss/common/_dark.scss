@@ -1,16 +1,16 @@
 /** Theme variables */
 
 // Source: https://material.io/design/color/dark-theme.html
-
-$body-bg-dark: $black;
+$primary-dark: #E8778B;
+$body-bg-dark: $gray-900;
 $body-overlay-dark: darken($body-bg-dark, 2.5%);
-$border-dark: $white;
-$body-color-dark: $red;
+$border-dark: darken($body-bg-dark, 2.5%);
+$body-color-dark: $gray-300;
 $dots-dark: darken($body-color-dark, 50%);
 
-$link-color-dark: $white;
+$link-color-dark: $primary-dark;
 $button-color-dark: $link-color-dark;
-$focus-color-dark: lighten($link-color-dark, 2.5%);
+$focus-color-dark: darken($link-color-dark, 2.5%);
 
 $navbar-dark-color:                 $body-color-dark;
 $navbar-dark-hover-color:           $link-color-dark;
@@ -34,7 +34,7 @@ body.dark a.text-body {
 body.dark .btn-primary {
   @include button-variant($button-color-dark, $button-color-dark);
 
-  color: $body-color-dark !important;
+  color: $body-bg-dark !important;
 }
 
 body.dark .btn-outline-primary {

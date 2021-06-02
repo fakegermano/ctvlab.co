@@ -11,16 +11,19 @@ $gray-700: #495057;
 $gray-800: #343a40;
 $gray-900: #212529;
 $black:    #000;
-$red:      #f00;
+
+$red:      #e55235;
 $yellow:   #ffe000;
 $beige:    #fbf7f0;
 $purple:   #5d2f86;
 $brown:    #aa9c84;
 
+
+
 $blue-300: #8ed6fb;
 $pink-500: #d32e9d;
 
-$primary: $white;
+$primary: #3CB5A2;
 
 // Options
 //
@@ -55,8 +58,8 @@ $navbar-light-toggler-icon-bg: none;
 //
 // Settings for the `<body>` element.
 
-$body-bg:                   $red;
-$body-color:                $black;
+$body-bg:                   $gray-100;
+$body-color:                $gray-900;
 
 // Links
 //
