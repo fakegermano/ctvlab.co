@@ -9,8 +9,6 @@ images: []
 
 Mentoria em Estratégia de Posicionamento e Branding para profissionais da Economia Criativa
 
-[Reserve sua vaga!](https://mlt279vdqra.typeform.com/to/ezIIBqwk)<sub><sup>Temos só 3 vagas disponíveis pra junho</sup></sub>
-
 ## Como funciona?
 
 São 4 encontros de 40 minutos via zoom ou google meet onde vamos:
@@ -22,6 +20,28 @@ São 4 encontros de 40 minutos via zoom ou google meet onde vamos:
 ## Quem pode?
 
 Artistas, designers, fotógrafes, inventadores de moda e fazedores de coisas. Se você trabalha com criatividade e procura trazer impacto positivo pra a nossa sociedade, essa Mentoria é pra você!
+
+### Quem já fez:
+
+- Por: Mia Apolonio, proprietária da [@apoloniahl](https://www.instagram.com/apoloniahl/):
+
+<div class="text-center">
+    <img src="/images/mia.jpg" class="img-thumbnail">
+</div>
+
+> **Um trabalho magnífico**
+> <hr/>
+> A minha empresa hoje só tá em pé por conta do CTV LAB. Minha mentoria foi no início do ano de 2019, porém de lá pra cá nunca me faltou respaldo. <br/> Nunca me sinto desamparada, elas me apoiam, me aconselham. Elas fazem um trabalho magnífico!
+
+- Por: Thiago Theodoro, tatuador na [@thiago.theod](https://www.instagram.com/thiago.theod/):
+
+<div class="text-center">
+    <img src="/images/thiago.jpg" class="img-thumbnail">
+</div>
+
+> **Alegria e responsabilidade**
+> <hr/>
+> Com transparência e objetividade, o CTV LAB me ajudou muito a entender meus clientes e meu lugar no mercado digital. <br/> Alegria e responsabilidade mostram a alma do CTV LAB.
 
 ## O que eu recebo no final?
 
