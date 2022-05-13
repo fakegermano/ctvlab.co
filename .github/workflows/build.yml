@@ -24,7 +24,7 @@ jobs:
       run: hugo version
 
     - name: Build production website
-      run: hugo --minify  
+      run: hugo 
 
     - name: Push to live-site
       uses: appleboy/scp-action@master
