@@ -14,7 +14,9 @@ categories = [
     "cultura",
     "ciência & tec",
 ]
-Editorias = ["fofoca"]
+editorias = [
+    "fofoca",
+]
 image = ""
 +++
 

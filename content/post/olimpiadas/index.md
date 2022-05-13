@@ -75,12 +75,12 @@ Bateu a saudade? Corre acompanhar as paralimpíadas, que começaram nesta terça
 
 Brasil segue com 253 atletas, a maior delegação das Paralimpíadas de Tóquio e com um total de 301 medalhas.
 
-{{< figure src="olimpiada-medalhas.png" caption="Ilustração: Reprodução/ CBVD" >}}
+{{< figure src="olimpiada-medalhas.jpg" caption="Ilustração: Reprodução/ CBVD" >}}
 
 E fica a indicação de conteúdo da jornalista Ana Clara Moniz que está fazendo essa cobertura no Instagram, como mídia independente.
 
 Ela questiona a lacuna presente nas grandes mídias que não transmitem as paralimpíadas e luta por mais acessibilidade e representatividade.
 
-{{< figure src="olimpiada-ana.png" caption="Foto: Instagram [@_anaclarabm](<https://www.instagram.com/_anaclarabm/?hl=pt-br>)" >}}
+{{< figure src="olimpiada-ana.jpeg" caption="Foto: Instagram [@_anaclarabm](<https://www.instagram.com/_anaclarabm/?hl=pt-br>)" >}}
 
 ##### Texto originalmente publicado no [medium](https://ctv-lab.medium.com/e-vamos-sobre-o-que-ficou-com-o-que-vimos-e-infelizmente-n%C3%A3o-presenciamos-das-olimp%C3%ADadas-8b1bb8566cd0)
