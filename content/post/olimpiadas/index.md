@@ -9,10 +9,10 @@ tags = [
     "esporte",
     "saúde mental",
     "mídia independente",
-]
-categories = [
     "cultura",
     "política",
+]
+categories = [  
 ]
 image = "capa-vermelha.png"
 +++

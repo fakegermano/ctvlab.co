@@ -9,10 +9,10 @@ tags = [
     "sustentabilidade",
     "ESG",
     "impacto",
-]
-categories = [
     "ciência & tec",
     "economia",
+]
+categories = [
 ]
 image = "capa-amarela.png"
 +++
