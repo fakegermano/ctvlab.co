@@ -14,8 +14,6 @@ categories = [
     "ciência & tec",
     "economia",
 ]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
 image = "capa-amarela.png"
 +++
 

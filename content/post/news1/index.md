@@ -12,10 +12,9 @@ tags = [
 ]
 categories = [
     "cultura",
-    "ciência & tec", "fofoca de trampo"
+    "ciência & tec",
 ]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
+Editorias = ["fofoca"]
 image = ""
 +++
 
