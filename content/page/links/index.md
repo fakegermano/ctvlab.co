@@ -1,37 +1,37 @@
 ---
-title: Links
+title: Pessoas
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+  - title: Julia Germano Travieso
+    description: Jornalista | Facilitadora de Narrativas Plurais | Fazedora de coisas
+    website: https://juliatravieso.tumblr.com
+    image: julia-travieso.jpeg
+  - title: Mariana de Moraes
+    description: Criadora de conexões | Relações-Públicas | Co-fundadora do RPretas
+    website: https://linktr.ee/amarimoraes
+    image: mari-moraes.png
+  - title: Isis Rangel
+    description: Jornalista | Criadora do blog FagulhasDaOlivia | Transcritora de áudio
+    website: https://linktr.ee/isis.rangel
+    image: isis-rangel.png
+  - title: Fernanda Saito
+    description: Jornalista | Assessora de Comunicação | Content Creator
+    website: https://www.linkedin.com/in/saitofff/
+    image: fer-saito.jpg  
+  - title: Ana Guidi
+    description: Graphic Designer | Visual Artist 
+    website: https://www.behance.net/anacguidi
+    image: ana-guidi.png
+  - title: Pedro Nunes
+    description: Designer | Ilustrador
+    website: https://www.instagram.com/nunesp_/
+    image: pedro-nunes.png
+comments: false
+
 menu:
     main: 
         weight: -50
         params:
             icon: link
+---            
 
-comments: false
----
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+Comunicadores e criatives que participaram da (re)imaginação do futuro no nosso LAB

@@ -33,7 +33,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: ctv-favicon-32x32.png
 
     footer:
         since: 2020
@@ -44,12 +44,12 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 👽
+        subtitle: um espaço para comunicadores (re)imaginarem o futuro
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/logoctvlab.1.png
 
     article:
         math: false
@@ -154,8 +154,8 @@ params:
 
     opengraph:
         twitter:
-            # Your Twitter username
-            site:
+            # 
+            site: 
 
             # Available values: summary, summary_large_image
             card: summary_large_image
@@ -186,15 +186,16 @@ menu:
     main: []
 
     social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+        - identifier: instagram
+          name: Instagram
+          url: https://www.instagram.com/ctv.lab/
           params:
-              icon: brand-github
+              icon: icons8-instagram 
+            
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://twitter.com/ctv_lab
           params:
               icon: brand-twitter
 
