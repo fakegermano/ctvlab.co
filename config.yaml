@@ -229,6 +229,4 @@ markup:
         tabWidth: 4
 
 taxonomies:
-    - categories
-    - tags
     - Editorias
