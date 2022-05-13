@@ -15,7 +15,7 @@ tags = [
 
 ]
 categories = [
-    "Fofoca de Trampo",
+    "fofoca-de-trampo",
 ]
 image = ""
 +++

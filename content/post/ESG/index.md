@@ -13,6 +13,7 @@ tags = [
     "economia",
 ]
 categories = [
+    
 ]
 image = "capa-amarela.png"
 +++

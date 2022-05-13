@@ -14,7 +14,7 @@ tags = [
     "ciência & tec",
 ]
 categories = [
-    "Fofoca de Trampo",
+    "fofoca-de-trampo",
 ]
 image = ""
 +++
