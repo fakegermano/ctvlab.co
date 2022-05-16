@@ -33,7 +33,10 @@ links:
     description: GRAPHIC DESIGNER | DIGITAL ARTIST
     website: https://sofiafroeder.carrd.co
     image: sofia-froeder.jpg
-  
+  - title: Daniel Travieso
+    description: software engineer
+    website: https://dgtravieso.com
+    image: daniel-travieso.jpg
 
 comments: false
 
