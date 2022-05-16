@@ -13,10 +13,6 @@ links:
     description: Jornalista | Criadora do blog FagulhasDaOlivia | Transcritora de áudio
     website: https://linktr.ee/isis.rangel
     image: isis-rangel.png
-  - title: Fernanda Saito
-    description: Jornalista | Assessora de Comunicação | Content Creator
-    website: https://www.linkedin.com/in/saitofff/
-    image: fer-saito.jpg  
   - title: Ana Guidi
     description: Graphic Designer | Visual Artist 
     website: https://www.behance.net/anacguidi
@@ -33,6 +29,10 @@ links:
     description: GRAPHIC DESIGNER | DIGITAL ARTIST
     website: https://sofiafroeder.carrd.co
     image: sofia-froeder.jpg
+  - title: Fernanda Saito
+    description: Jornalista | Assessora de Comunicação | Content Creator
+    website: https://www.linkedin.com/in/saitofff/
+    image: fer-saito.jpg  
   - title: Daniel Travieso
     description: software engineer
     website: https://dgtravieso.com
