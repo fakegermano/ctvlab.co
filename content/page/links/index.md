@@ -25,6 +25,14 @@ links:
     description: Designer | Ilustrador
     website: https://www.instagram.com/nunesp_/
     image: pedro-nunes.png
+  - title: Sofia Froeder
+    description: GRAPHIC DESIGNER | DIGITAL ARTIST
+    website: https://sofiafroeder.carrd.co
+    image: sofia-froeder.jpg
+  - title: Keytyane Medeiros
+    description: Jornalista | escritora | pesquisadora | produtora
+    website: https://keytymedeiros.com
+    image: keyty-medeiros.webp  
 comments: false
 
 menu:
