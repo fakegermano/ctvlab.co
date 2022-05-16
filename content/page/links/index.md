@@ -1,5 +1,5 @@
 ---
-title: Pessoas
+title: Residentes
 links:
   - title: Julia Germano Travieso
     description: Jornalista | Facilitadora de Narrativas Plurais | Fazedora de coisas
