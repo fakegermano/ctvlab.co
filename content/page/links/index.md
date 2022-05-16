@@ -33,6 +33,7 @@ links:
     description: GRAPHIC DESIGNER | DIGITAL ARTIST
     website: https://sofiafroeder.carrd.co
     image: sofia-froeder.jpg
+  
 
 comments: false
 
