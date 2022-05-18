@@ -33,7 +33,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: ctv-favicon-32x32.png
+    favicon: /ctv-favicon-32x32.png
 
     footer:
         since: 2020
