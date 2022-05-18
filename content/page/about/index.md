@@ -12,7 +12,7 @@ menu:
     main: 
         weight: -90
         params:
-            icon: user
+            icon: home
 ---
 Nós somos CTV LAB, um laboratório de experimentação em comunicação que usa a internet como ferramenta de autopublicação, compartilhando histórias e posicionamentos no mundo com uma perspectiva plural, demonstrando a potência criativa e cultural do Brasil.
 
