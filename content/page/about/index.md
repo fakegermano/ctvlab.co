@@ -57,14 +57,6 @@ engajaflix - plataforma
 
 apoiando nosso catarse você é automaticamente listado como um investidor desse projeto essencial na disputa por narrativas e territórios na internet.
 
-Experiências de comunicação para a transformação social
-
-Nossa missão é criar narrativas plurais através da produção de discursos acessíveis que potencializam a comunicação. Priorizando a capacidade de aprendizagem e pensamento crítico, modificando profundamente como as marcas se posicionam e se movimentam na Internet.
-
-Sobre a Experiência:
-
-A experiência de Criação de Discursos Acessíveis e Marcas em Movimento nasce a partir da perspectiva de que as marcas estão em constante transformação, assim como as pessoas. Para isso, nos baseamos em uma extensa pesquisa sobre narrativas plurais e como marcas e pessoas estão se comportando na internet.
-
 _____
 
 🌻 Nosso compromisso é com a potencialização das histórias transformadoras que existem em nosso território
