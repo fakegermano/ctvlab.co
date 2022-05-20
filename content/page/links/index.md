@@ -44,7 +44,7 @@ links:
   - title: Karen Uehara
     description: Ilustradora | Designer | Entusiasta de cores vibrantes e tintas mil
     website: https://www.karenuehara.com.br
-    image: karen-uehara.webp
+    image: karen-euhara.webp
   - title: Ariane Frassato
     description: Jornalismo | Digital | Marketing | Vídeos
     website: https://www.linkedin.com/in/ariane-frassato-generozo/
