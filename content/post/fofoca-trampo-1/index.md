@@ -37,3 +37,5 @@ Aqui vai a lista com o babado que não poderíamos deixar de compartilhar essa s
 6. **Indicação:** Um [projeto que vale o seu follow](https://www.catarse.me/fagulhasdaolivia) e minutos precisos da sua atenção é o blog Fagulhas da Olívia, uma iniciativa da jornalista Isis Rangel que se propõe a criar um ["espaço seguro com conteúdos de qualidade que proporcionam reflexão"](https://medium.com/fagulhas-da-olivia).
 
 7. **Um motivo pra apoiar nosso [catarse](https://www.catarse.me/ctvlab):** Sonhos são as forças que trazem propósito para as ações do nosso dia a dia, mas um sonho sem um plano será pra sempre inalcançável. Assinando mensalmente nosso catarse você colabora para a criação de mais conteúdos como esse, além de ajudar a concretizar os sonhos de todos os fazedores mapeados no projeto e de receber conteúdos exclusivos de comunicação.
+
+##### Texto originalmente publicado na [newsletter via email](https://us18.campaign-archive.com/?u=58457e5732f0a40dd5cccccfe&id=b0518b71e2)

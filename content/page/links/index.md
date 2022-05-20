@@ -6,7 +6,7 @@ links:
     website: https://juliatravieso.tumblr.com
     image: julia-travieso.jpeg
   - title: Mariana de Moraes
-    description: Criadora de conexões | Relações-Públicas | Co-fundadora do RPretas
+    description: Criadora de conexões | Relações-Públicas 
     website: https://linktr.ee/amarimoraes
     image: mari-moraes.png
   - title: Isis Rangel
