@@ -16,7 +16,7 @@ tags = [
 categories = [
     "fofoca-de-trampo",
 ]
-image = ""
+image = "fofoca-2.png"
 +++
 
 Bem vinde fofoqueire, 

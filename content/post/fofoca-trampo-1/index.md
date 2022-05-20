@@ -17,7 +17,7 @@ tags = [
 categories = [
     "fofoca-de-trampo",
 ]
-image = ""
+image = "fofoca-1.png"
 +++
 
 Bem vinde fofoqueire, 
@@ -28,7 +28,7 @@ Aqui vai a lista com o babado que não poderíamos deixar de compartilhar essa s
 
 2. **Papo de arte e cultura:** A fotógrafa Letícia de Maceno brincou bastante com o autorretrato durante a quarentena e falou muita coisa massa sobre os processos desse trampo aqui [nessa entrevista maravilhosa](https://ctv-lab.medium.com/let%C3%ADcia-de-maceno-autorretrato-e-quarentena-1e7706feb301)
 
-3. **Redes e conexões:**  Ouvindo o som MAGRELA87 do Marcelo D2 a gente relembra uma frase maravilhosa de Raul Seixas: "Sonho que se sonha só, é só um sonho que se sonha só. Mas sonho que se sonha junto, é realidade". Em 2020 aprendemos que trabalhar em rede é muito mais potente e que Raul tinha razão, quando sonha junto, a gente articula redes e consegue trazer impacto pro mundo real. 
+3. **Redes e conexões:**  Ouvindo o som MAGRELA87 do Marcelo D2 a gente relembra uma frase maravilhosa de Raul Seixas: `Sonho que se sonha só, é só um sonho que se sonha só. Mas sonho que se sonha junto, é realidade`. Em 2020 aprendemos que trabalhar em rede é muito mais potente e que Raul tinha razão, quando sonha junto, a gente articula redes e consegue trazer impacto pro mundo real. 
 
 4. **Um filme que vale o play:** Lançamento recente, o filme [40 Year Old Version](https://www.youtube.com/watch?v=RRpGNnaDzeE) é um abraço pra quem tá sempre nas crises criativas, sem saber muito bem como e pra onde ir. Além disso é um exemplo muito incrível de construção de narrativas que pode inspirar micro revoluções maravilhosas no nosso pensamento. 
 

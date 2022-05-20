@@ -16,7 +16,7 @@ tags = [
 categories = [
     "fofoca-de-trampo",
 ]
-image = ""
+image = "fofoca-3.png"
 +++
 
 Bem vinde fofoqueire, 
@@ -24,7 +24,7 @@ Começando bem o mês que é a sexta feira do ano. VEM DEZEMBRO feat ACABA 2020,
 
 1. **Uma notícia boa:** A atriz, dramaturga e roteirista potiguar Alice Carvalho foi premiada como melhor atriz no [Changing Face IFF](https://twitter.com/ChangingFaceIFF/status/1333739212017786881?s=20) pela websérie SEPTO. 
 
-2. **Papo de arte e cultura:** Na segunda 07/12 teremos a abertura oficial do MUTHA Brasil, o Museu Transgênero de História e Arte. Vai rolar programação gratuita pelas redes sociais e todas as infos importantes tão aqui [nesse link](https://www.instagram.com/muthabrasil/).
+2. **Papo de arte e cultura:** Na segunda 07/12 teremos a abertura oficial do [MUTHA Brasil](https://mutha.com.br), o Museu Transgênero de História e Arte. Vai rolar programação gratuita pelas redes sociais e todas as infos importantes tão aqui [nesse link](https://www.instagram.com/muthabrasil/).
 
 3. **Redes e conexões:** Muitas das culturas e sociedades ao longo da História construíram essa ideia de que os seres humanos são mais especiais e poderosos, como se fossemos uma espécie superior. Esse pensamento trouxe toda a desigualdade e poluição que vivemos hoje, mas a verdade é que somos animais integrantes da natureza, assim como qualquer outro. Entender isso é essencial pra conseguirmos desenvolver redes de colaboração verdadeiramente transformadoras. `Não basta estar junto, a colaboração profunda precisa desafiar as percepções
 existentes do que é poder, acesso, comunidade, identidade.` (tradução livre de um trecho [desse material aqui](https://www.are.na/block/9372993))
