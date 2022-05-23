@@ -15,10 +15,10 @@ tags = [
 categories = [
     "fofoca-de-trampo",
 ]
-image = "fofoca-3.png"
+image = "fofoca-4.png"
 +++
 
-## Editorial
+{{< figure src="fofoca-4-editorial.png" >}}
 
 Em meio ao caos, nos vemos criando performances diárias pra alimentar algoritmos misteriosos e transformando nossas vidas em versões editadas pra conteúdos online.
 
@@ -38,7 +38,7 @@ O babado é forte, boa leitura!
 
 Julia Travieso
 
-## Bem vinde fofoqueire! 
+{{< figure src="fofoca-4-fofoca.png" >}}
 
 Por aqui andamos questionando sobre os limites das redes sociais. Se você nunca pensou em excluir seu perfil, puts, faz um tutorial aí, porque você é uma exceção. 
 Dá saudades do Orkut em comparação a esses ‘transformers’ que usamos, Tik Tok e Instagram. 
@@ -46,23 +46,55 @@ Dá saudades do Orkut em comparação a esses ‘transformers’ que usamos, Tik
 Sabemos que rola muita comparação, da vida perfeita e totalmente irreal. E mais questões estão sendo debatidas, principalmente quando falamos sobre consumismo compulsivo e também de crianças e adolescentes usando as redes sem restrição de conteúdo. 
  
 
-1. **Filtro no instagram é legal até a página 10.** Começa afinando o nariz, mudando o tom da pele, aumentando os olhos e por aí vai. 
+1. **Filtro no instagram é legal até a página 10.** 
+
+Começa afinando o nariz, mudando o tom da pele, aumentando os olhos e por aí vai. 
 
 E isso tem surtido efeitos, que chamam de [Dismorfia Snapchat/ Instagram](https://gq.globo.com/Corpo/Saude/noticia/2020/05/excessos-da-vida-digital-selfie-perfeita-pode-causar-dismorfia-instagram.html). Ou seja, as pessoas estão buscando procedimentos estéticos para se parecerem mais com os filtros usados. Parece absurdo, e é. 
  
 
-2. **SUPER FAST FASHION?** É, ao que parece, comprar roupa está tão descartável e rápido pra consumo quanto um lanchão do Méqui. 
+2. **SUPER FAST FASHION?** 
+
+É, ao que parece, comprar roupa está tão descartável e rápido pra consumo quanto um lanchão do Méqui. 
 
 [Esse texto](https://wrapcompliance.org/blog/micro-trends-the-acceleration-of-fashion-cycles-and-rise-in-waste/) fala sobre como a cultura da influência cria micro-tendências e faz as pessoas comprarem roupas somente para postar conteúdo em TikTok e Instagram.
 
 (o conteúdo tá em inglês mas a tradução automática do google responde bem ao texto)
  
 
-3. **Crianças com sotaques de todos os cantos, esse é o futuro.** Alguém aí conhece uma criança que não quer largar o Youtube nem pra comer? [Esse vídeo da BBC](https://www.youtube.com/watch?v=Mup9_wUZzL0&list=WL&index=7) fala sobre como essa influência digital traz novas marcas na fala das crianças. 
+3. **Crianças com sotaques de todos os cantos, esse é o futuro.** 
+
+Alguém aí conhece uma criança que não quer largar o Youtube nem pra comer? [Esse vídeo da BBC](https://www.youtube.com/watch?v=Mup9_wUZzL0&list=WL&index=7) fala sobre como essa influência digital traz novas marcas na fala das crianças. 
 
 
-4. **TikTok #livrepraser mas nem tanto.** Aparentemente o suporte aos grupos marginalizados socialmente se mantém superficial. 
+4. **TikTok #livrepraser mas nem tanto.** 
+
+Aparentemente o suporte aos grupos marginalizados socialmente se mantém superficial. 
 
 A rede Chinesa já foi acusada de banir o uso das expressões “black lives matter” (vidas negras importam) e “asian woman” (mulher asiática), ao mesmo tempo que passa pano pro uso da expressão “pro-white” (a favor de movimentos de supremcacia branca).  
 
-Nesse texto você fica por dentro dos babados envolvendo o Tico & Teco e seu algoritmo “mágico”. 
+[Nesse texto](https://ctv-lab.medium.com/tiktok-livrepraser-mas-nem-tanto-bfdd775389a3) você fica por dentro dos babados envolvendo o Tico & Teco e seu algoritmo “mágico”. 
+
+{{< figure src="fofoca-4-indicacao.png" >}}
+
+E vamos também de indicações do bem, pra manter o equilíbrio sempre (ou tentar rs)
+
+**Indicação 1**
+
+[Escuta Ética](https://www.instagram.com/escutaetica/) | Instagram 
+
+É uma conta que fornece apoio psicológico às mulheres, divulgando informações úteis e reflexões importantes. 
+
+
+**Indicação 2**
+
+[Pretitudes](https://www.instagram.com/pretitudes/) | Instagram 
+
+Ana e Caio publicam sobre questões raciais, com indicações, memes e empoderamento.
+ 
+
+**Indicação 3** 
+
+[Músicas pra dançar descabelada](https://open.spotify.com/playlist/1vCspdRzQh0ISKwI6X1YQC?si=f16f2960e35f4dfd) | Spotify 
+
+E bora de playlist? Pra torar na caixinha de som, cantar junto e mandar a tristeza embora. 
