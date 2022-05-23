@@ -43,7 +43,6 @@ Desmistificando a Economia Criativa
 
 ▶️ transmissão via TwitchTV: - em atualização -
 
-🎙podcast: - em atualização -
 
 Março Vermelho
 
