@@ -17,8 +17,10 @@ tags = [
 categories = [
     "desmistificando-a-economia-criativa",
 ]
-image = ""
+image = "tabatacover2.png"
 +++
+
+### Sobre a Tábata
 
 A gente sempre fala de Economia Criativa, mas muita gente não consegue entender se o seu negócio se encaixa, ou até mesmo quais são os projetos gerais que se enquadram.
 
@@ -33,3 +35,44 @@ Foram 3h de uma conversa maravilhosa que rendeu muitas reflexões.
 Em um momento como esse em que estamos, muitas pessoas estão se sentindo pressionadas a tomar um posicionamento e isso é ótimo, mas não pode ser feito de qualquer jeito. Mais que compartilhar hashtags, **é preciso tomar atitudes, entrar em ação e uma das formas de fazer isso é entendendo os processos de produção e consumo dos produtos, por onde o $$ circula e tomar decisões inteligentes sobre onde colocar a sua grana**.
 
 Nessa live a Tábata fala justamente sobre isso, o papel que a Economia Criativa tem na circulação dessa grana entre as nossas comunidades e como esse é um dos posicionamentos mais importantes que temos que tomar diariamente.
+
+### Parte 1
+
+{{< figure src="tabata1.png" >}}
+
+**Entrevistadora:** Mariana de Moraes
+
+**Entrevistada:** Tábata Inocêncio
+
+link para o vídeo completo: https://www.instagram.com/tv/CA_ZVduBswl/
+
+
+### Parte 2
+
+{{< figure src="tabata2.png" >}}
+
+**Entrevistadora:** Mariana de Moraes
+
+**Entrevistada:** Tábata Inocêncio
+
+link para o vídeo completo: https://www.instagram.com/tv/CA_gY5NB7ul/
+
+### Parte 3
+
+{{< figure src="tabata3.png" >}}
+
+**Entrevistadora:** Mariana de Moraes
+
+**Entrevistada:** Tábata Inocêncio
+
+link para o vídeo completo: https://www.instagram.com/tv/CA_j0g8hhI_/
+
+### Ficha técnica
+
+**Direção:** Julia Travieso
+
+**Produção:** Julia Travieso, Mariana de Moraes, Ana Giese e Ana Carolina Guidi
+
+**Curadoria:** Julia Travieso e Mariana de Moraes
+
+**Entrevista:** Mariana de Moraes
