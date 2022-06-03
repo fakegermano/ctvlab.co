@@ -8,6 +8,7 @@ description = "terapeuta vibracional, especialista em tantra, autocuidado e tera
 tags = [
     "live",
     "cuidado",
+    "atencao",
     "futuro",
     "cultura",
     "pandemia",
