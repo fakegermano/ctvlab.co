@@ -29,7 +29,7 @@ Para poder usar esse ‘selo’ as empresas precisam se comprometer a desenvolve
 
 Os principais responsáveis por disseminar esse movimento são os investidores, os caras que injetam grana nas empresas e garantem que elas possam criar inovação e seguir no positivo. Com isso, estar de bem com a sustentabilidade deixa de ser uma questão de manter uma imagem de bom moço e se transforma na única forma de garantir capital.
 
-{{< figure src="esg.png" caption=" imagem: [Folha/UOL]( https://www1.folha.uol.com.br/mercado/2021/06/entenda-o-que-e-esg-e-por-que-a-sigla-virou-febre-no-mundo-dos-negocios.shtml)" >}}
+{{< figure src="esg.png" caption=" imagem:imagem: twitter/@tinywienerbabe" >}}
 
 
 Apesar de estar andando a passos um pouco mais lentos no Brasil, estar em dia com as práticas ESG é a única forma de manter as empresas bem posicionadas nas listas de investimentos e essa realidade está transformando a forma como as coisas são feitas em todos os espaços corporativos. Desde escolha de fornecedores, formas de distribuição, Recursos Humanos e, é claro, a Comunicação.
