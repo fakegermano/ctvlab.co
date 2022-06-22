@@ -55,7 +55,7 @@ Para produtos de audiovisual o caminho é um pouco mais direto, você pode checa
 
 Na maior parte dos casos a diversidade fica longe dos cargos de decisão e esse já é um sinal bem grande dizendo CORRA PRA BEM LONGE e não coloque seu din din suado na mão dessa galera.
 
-## E agora?
+## E agora? O que posso fazer diferente?
 
 {{< figure src="queer3.png" caption=" imagem: Reprodução" >}}
 
