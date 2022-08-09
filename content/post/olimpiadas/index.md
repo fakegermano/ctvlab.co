@@ -14,7 +14,7 @@ tags = [
 ]
 categories = [  
 ]
-image = "capa-vermelha.png"
+image = "olimpiada-naomi.png"
 +++
 
 No Brasil é preciso fazer “das tripas coração” pra viver sendo atleta. A falta de investimento vem com força!

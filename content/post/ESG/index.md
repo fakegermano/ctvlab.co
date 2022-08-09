@@ -15,17 +15,13 @@ tags = [
 categories = [
     
 ]
-image = "capa-amarela.png"
+image = "esg2.png"
 +++
-
 
 
 Se você ainda não conhece, ESG é uma sigla em inglês para Environmental, Social and corporate Governance que prega melhores práticas ambientais, sociais e de governança para as corporações. É uma formulinha que ajuda as corporações a orientar as práticas da empresa pensando em um futuro mais sustentável tanto ambientalmente, quanto socialmente.
 
 Para poder usar esse ‘selo’ as empresas precisam se comprometer a desenvolver práticas que protejam o meio ambiente, sejam relevantes para a sociedade e tenham transparência nos processos, evitando corrupção, assédio e discriminação de qualquer tipo.
-
-{{< tweet user="replacestate" id="1437400625776578560?" >}}
-
 
 Os principais responsáveis por disseminar esse movimento são os investidores, os caras que injetam grana nas empresas e garantem que elas possam criar inovação e seguir no positivo. Com isso, estar de bem com a sustentabilidade deixa de ser uma questão de manter uma imagem de bom moço e se transforma na única forma de garantir capital.
 

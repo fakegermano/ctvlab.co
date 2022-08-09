@@ -16,11 +16,8 @@ tags = [
 categories = [
     
 ]
-image = "capa-azul.png"
+image = "queer.jpeg"
 +++
-
-{{< figure src="queer.jpeg" caption=" imagem: twitter/@tinywienerbabe" >}}
-
 
 ## O que é?
 Começando pelo começo, vamos falar sobre o que significa queerbaiting: uma tradução literal é Isca Queer, como na pesca mesmo, uma forma de conseguir audiência e dinheiro do público LGBTQIA+ (o tal Pink Money), que muitas vezes tem sede de representatividade.
